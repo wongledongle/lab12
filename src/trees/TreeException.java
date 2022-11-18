@@ -1,5 +1,5 @@
 package trees;
-public class TreeException extends FamilyTree
+public class TreeException extends TreeNode
 {
 public TreeException(String s)
 {
